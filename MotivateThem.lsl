@@ -5,7 +5,7 @@ integer line_count;
 integer lines_loaded;
 integer interval_seconds = 14400; // Default interval (4 hours)
 
-// Function to load notecard data
+// Function to load notecard quotes
 load_notecard()
 {
     llGetNumberOfNotecardLines("MotivationalQuotes");
@@ -15,7 +15,7 @@ default
 {
     state_entry()
     {
-        llSetText("彡 A Whisper in the Wind 彡\n \n Motivational Mailer", <1, 1, 1>, 1.0); // hover text
+        llSetText("彡 A Whisper in the Wind 彡\n \n Motivational Mailer", <1, 1, 1>, 1.0); // Hover text
         llOwnerSay("Reading motivational quotes from notecard...");
         load_notecard();
     }
