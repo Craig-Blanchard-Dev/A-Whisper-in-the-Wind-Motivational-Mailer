@@ -1,4 +1,4 @@
-The script sends random motivational messages from a notecard to a list of recipients.
+The script sends random motivational messages from a notecard to a list of recipients. (200 quotes)
 Timer-Controlled Messaging: When active, the script sends a motivational message to all friends every 4 hours but can be adjusted as needed.
 
 TO INSTALL:
