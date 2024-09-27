@@ -3,7 +3,7 @@ Timer-Controlled Messaging: When active, the script sends a motivational message
 
 TO INSTALL:
 
-DOWNLOAD SCRIPT + NOTECARD. PLACE IN PRIM. TOUCH FOR MENU.
+DOWNLOAD OR COPY SCRIPT + NOTECARD. PLACE IN PRIM. TOUCH FOR MENU.
 
 MENU BUTTONS:
 
